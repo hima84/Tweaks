@@ -5,7 +5,7 @@
 
 
 You can run it on Windows 10 And Windows 11 . Run the admin file first.
-
+The file is played on the private server. There is no full guarantee. If you encounter a problem, contact technical support. Thank you.
 
 To contact technical support and inquire, click on the link.  https://discord.gg/JShEWsGvKp
 
