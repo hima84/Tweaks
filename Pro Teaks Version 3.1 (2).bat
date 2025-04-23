@@ -135,7 +135,6 @@ pause >nul
 
 :legit
 cls
-color 4
 echo.
 echo.
 echo.
