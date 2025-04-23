@@ -3,13 +3,14 @@
  Free tweak provided by Mwk Ambrose. An advanced and secure tweak that helps you to improve your device’s performance quickly and securely. Technical support is available to address any problems. > Note: Please make a manual happiness point before activating the tweak on your own.
 ![image](https://github.com/mwkambrose/Tweaks-tool-box-/blob/main/image%20tweaks.jpg?raw=true)
 
+
 <p align="center">
-  <a href=![image](https://github.com/user-attachments/assets/d67a0a06-7038-4918-aa3d-deaeb06be5f0)
-"">
-    <img src="![image](https://github.com/user-attachments/assets/efd4aa49-57b8-44ba-b697-6744f431ab25)
-">
+  <a href="https://github.com/yourusername/yourrepo/releases/download/v1.0.0/Optimizer.exe">
+    <img src="https://img.shields.io/badge/Download-red?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>
+
+
 
 
 
