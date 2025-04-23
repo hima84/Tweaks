@@ -96,5 +96,5 @@ You should thoroughly test changes in a controlled environment before deploying 
 
 For support, questions, or to report issues, please open an issue on the GitHub repository or contact the developer directly.
 
-❤️ Thank you for using Tutorial Tweaks — use responsibly and tweak smart!
+ Thank you for using Tutorial Tweaks — use responsibly and tweak smart!❤️
 
