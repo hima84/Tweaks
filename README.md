@@ -71,7 +71,7 @@ Lightweight, fast, and fully portable.
 ## 🛠️ Technical Support
 
 <p align="center">
-  <a href="mailto:support@example.com">
+  <a href=https://discord.gg/5vEKmkyYfy"mailto:">
     <img src="https://img.shields.io/badge/Contact_Support-blue?style=for-the-badge&logo=gmail" alt="Contact Support">
   </a>
 </p>
