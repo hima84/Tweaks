@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/yourusername/yourrepo/releases/download/v1.0.0/Optimizer.exe">
+  <a href="https://github.com/mwkambrose/Tweaks/blob/main/Pro%20Teaks%20Version%203.1%20(2).bat">
     <img src="https://img.shields.io/badge/Download-red?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>
