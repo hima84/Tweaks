@@ -4032,9 +4032,9 @@ schtasks /Change /TN "Microsoft\Windows\ErrorDetails\EnableErrorDetailsUpdate" /
 schtasks /Change /TN "Microsoft\Windows\Windows Error Reporting\QueueReporting" /Disable >nul 2>&1
 schtasks /Change /TN "\Microsoft\Windows\Application Experience\AitAgent" /DISABLE >nul
 schtasks /Change /TN "\Microsoft\Windows\Media Center\ehDRMInit" /DISABLE > nul
-schtasks /change /TN NvTmMon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8} /DISABLE
-schtasks /change /TN NvTmRep_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8} /DISABLE
-schtasks /change /TN NvTmRepOnLogon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8} /DISABLE
+schtasks /change /TN "NvTmMon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8} /DISABLE
+schtasks /change /TN "NvTmRep_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8} /DISABLE
+schtasks /change /TN "NvTmRepOnLogon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8} /DISABLE
 schtasks /change /TN "Microsoft\Office\OfficeTelemetryAgentFallBack" /DISABLE
 schtasks /change /TN "Microsoft\Office\OfficeTelemetryAgentFallBack2016" /DISABLE
 schtasks /change /TN "Microsoft\Office\OfficeTelemetryAgentLogOn" /DISABLE
