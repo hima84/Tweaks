@@ -23,6 +23,14 @@
 
 ---
 
+## 🖼️ Tool Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/image%20tweaks.jpg" alt="Tool Preview" width="600">
+</p>
+
+---
+
 ## 📥 Download
 
 <p align="center">
@@ -36,13 +44,13 @@
 ## 🛠️ Technical Support
 
 <p align="center">
-  <a href="https://discord.gg/5vEKmkyYfy">
+  <a href="mailto:support@example.com">
     <img src="https://img.shields.io/badge/Contact_Support-blue?style=for-the-badge&logo=gmail" alt="Contact Support">
   </a>
 </p>
 
-If you run into any problems or have questions, feel free to reach out to our support team.  
-We’re happy to help you fix issues, explain tweaks, or guide you through setup.
+Need help or have questions?  
+Our technical support team is ready to assist you with setup issues, tweak explanations, and performance advice. Don’t hesitate to reach out.
 
 ---
 
@@ -51,3 +59,5 @@ We’re happy to help you fix issues, explain tweaks, or guide you through setup
 This tool is provided as-is, with no guarantees. Use it at your own risk. For technical support or questions, please open an issue or contact the developer directly.
 
 > ❤️ Thank you for using Tutorial Tweaks!
+
+
