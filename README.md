@@ -13,20 +13,44 @@
 </p>
 
 
-## 🔧 Key Features
 
-- ✅ **All-in-One Optimization**
-- 🚀 **RAM and VRAM Tweaks** for better memory usage
-- 🔌 **Network Enhancements** to reduce latency and improve internet speed
-- ⚡ **Power Plan Customization** for maximum performance or battery life
-- 🧹 **Cache & Log Cleaning** to free up disk space
-- 🧠 **CPU & GPU Optimizations** for smoother multitasking and gaming
-- 🖱️ **Mouse and Input Tweaks** for faster response
-- 🔧 **Regedit & Service Tweaks** to disable unnecessary background processes
-- 💻 **System Debloating** to remove bloatware
-- 🧩 **Game-Specific Tweaks** to enhance FPS and stability
-- ⚙️ **Automatic Installation Option**
-- 📂 **Tiny File Size** – lightweight and portable
+✅ All-in-One Optimization
+A single-click solution to optimize multiple system parameters at once.
+
+🧠 RAM and VRAM Tweaks
+Optimized memory management for better system responsiveness.
+
+🌐 Network Enhancements
+Reduce latency and boost internet speed with intelligent tweaks.
+
+⚡ Power Plan Customization
+Switch between performance or battery efficiency with tailored power settings.
+
+🧹 Cache & Log Cleaning
+Clear unnecessary files to free up valuable disk space.
+
+🧬 CPU & GPU Optimizations
+Smooth multitasking and enhanced gaming performance.
+
+🖱️ Mouse and Input Tweaks
+Sharper input response for competitive edge in fast-paced tasks.
+
+🛠️ Regedit & Service Tweaks
+Disable non-essential background services to lighten system load.
+
+🚫 System Debloating
+Remove built-in bloatware for a cleaner Windows experience.
+
+🎮 Game-Specific Tweaks
+Targeted optimizations to improve FPS and game stability.
+
+🔧 Automatic Installation Option
+Skip the manual setup — streamline the optimization process.
+
+📦 Tiny File Size
+Lightweight, fast, and fully portable.
+
+
 
 ---
 
