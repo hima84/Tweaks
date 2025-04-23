@@ -57,10 +57,20 @@ Our technical support team is ready to assist you with setup issues, tweak expla
 
 ---
 
-## 📌 Disclaimer
+📌 Disclaimer
+This tool is provided "as is" without any warranties, express or implied. By using this tool, you acknowledge and accept that:
 
-This tool is provided as-is, with no guarantees. Use it at your own risk. For technical support or questions, please open an issue or contact the developer directly.
+You are solely responsible for any changes made to your system as a result of using this tool.
 
-> ❤️ Thank you for using Tutorial Tweaks!
+The developer is not liable for any direct, indirect, incidental, or consequential damages, including but not limited to system instability, performance degradation, data loss, or hardware issues.
 
+This tool may modify critical system settings and is intended for advanced users who understand the potential risks involved.
+
+It is highly recommended to create a full system backup or restore point before applying any tweaks.
+
+You should thoroughly test changes in a controlled environment before deploying them on production or essential systems.
+
+For support, questions, or to report issues, please open an issue on the GitHub repository or contact the developer directly.
+
+❤️ Thank you for using Tutorial Tweaks — use responsibly and tweak smart!
 
