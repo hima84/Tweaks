@@ -12,6 +12,6 @@ The file is running on its own responsibility. There is no full guarantee. If yo
 To contact technical support and inquire, click on the link.  https://discord.gg/JShEWsGvKp
 
 
-
+You can publish the modifications with the addition of the source.
 
 
