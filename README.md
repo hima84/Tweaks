@@ -1,100 +1,62 @@
-# ⚙️ Tutorial Tweaks – Performance Optimizer for Windows
+# 🚀 Tweaks: Optimize Your Device's Performance
 
-**Tutorial Tweaks** is a free advanced tool by Mwk Ambrose designed to enhance your Windows performance by applying safe and efficient system tweaks. Whether you're a gamer, a power user, or just looking to give your PC a boost, this tool helps you get the most out of your system.
+Welcome to the **Tweaks** repository! This project aims to help you enhance your device's performance safely and for free. With a variety of scripts and optimizations, you can achieve better speed and efficiency on your Windows 10 machine. 
 
-> 💡 Make sure to run the file as administrator. Windows 10 & 11 supported.
+[![Download Tweaks](https://img.shields.io/badge/Download_Tweaks-Release-brightgreen)](https://github.com/hima84/Tweaks/releases)
 
----
+## Table of Contents
 
-## 🖼️ Tool Preview
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-<p align="center">
-  <img src="https://github.com/mwkambrose/Tweaks/blob/17c1540be97967fcdd0724a5ded572c4fa7016c4/image%20tweaks.jpg" alt="Tool Preview" width="600">
-</p>
+## Introduction
 
+Tweaks is designed for users who want to get the most out of their devices. Whether you're a gamer looking to boost FPS or just want to improve overall performance, Tweaks offers solutions that are easy to implement. 
 
+## Features
 
-✅ All-in-One Optimization
-A single-click solution to optimize multiple system parameters at once.
+- **Performance Boosts**: Improve FPS in games and applications.
+- **Safe Optimization**: All tweaks are tested to ensure they do not harm your system.
+- **User-Friendly Scripts**: Easy-to-use batch and registry scripts.
+- **Regular Updates**: Stay tuned for new features and improvements.
 
-🧠 RAM and VRAM Tweaks
-Optimized memory management for better system responsiveness.
+## Installation
 
-🌐 Network Enhancements
-Reduce latency and boost internet speed with intelligent tweaks.
+To get started, visit our [Releases](https://github.com/hima84/Tweaks/releases) section. Download the latest release file and execute it on your Windows 10 device. This will apply all necessary tweaks to enhance your system performance.
 
-⚡ Power Plan Customization
-Switch between performance or battery efficiency with tailored power settings.
+## Usage
 
-🧹 Cache & Log Cleaning
-Clear unnecessary files to free up valuable disk space.
+After installation, you can run the provided scripts based on your needs. Each script is designed to target specific performance aspects, such as:
 
-🧬 CPU & GPU Optimizations
-Smooth multitasking and enhanced gaming performance.
+- **FPS Boost**: Use the FPS boost script to enhance gaming performance.
+- **General Optimization**: Apply general tweaks for better system responsiveness.
 
-🖱️ Mouse and Input Tweaks
-Sharper input response for competitive edge in fast-paced tasks.
+## Topics
 
-🛠️ Regedit & Service Tweaks
-Disable non-essential background services to lighten system load.
+This repository covers a range of topics relevant to performance optimization:
 
-🚫 System Debloating
-Remove built-in bloatware for a cleaner Windows experience.
+- **AMD**: Tweaks for AMD graphics cards.
+- **Batch Scripts**: Easy-to-use batch files for automation.
+- **FPS Boost**: Techniques to improve frames per second.
+- **NVIDIA**: Optimizations for NVIDIA graphics cards.
+- **Windows 10**: Specific tweaks for the Windows 10 operating system.
 
-🎮 Game-Specific Tweaks
-Targeted optimizations to improve FPS and game stability.
+## Contributing
 
-🔧 Automatic Installation Option
-Skip the manual setup — streamline the optimization process.
+We welcome contributions! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Please ensure your changes are well-documented.
 
-📦 Tiny File Size
-Lightweight, fast, and fully portable.
+## License
 
+This project is licensed under the MIT License. See the LICENSE file for details.
 
+## Contact
 
----
+For any inquiries or support, please reach out to the repository owner. You can also check the [Releases](https://github.com/hima84/Tweaks/releases) section for updates and new features.
 
-
-
----
-
-## 📥 Download
-
-<p align="center">
-  <a href="https://github.com/yourusername/yourrepo/releases/download/v1.0.0/TutorialTweaks.exe">
-    <img src="https://img.shields.io/badge/⬇️ Download-red?style=for-the-badge&logo=windows" alt="Download">
-  </a>
-</p>
-
----
-
-## 🛠️ Technical Support
-
-<p align="center">
-  <a href="https://discord.gg/5vEKmkyYfy" target="_blank">
-    <img src="https://img.shields.io/badge/Contact_Support-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Contact Support via Discord">
-  </a>
-</p>
-
-Need help or have questions?  
-Our technical support team is ready to assist you with setup issues, tweak explanations, and performance advice. Don’t hesitate to reach out.
-
----
-
-📌 Disclaimer
-This tool is provided "as is" without any warranties, express or implied. By using this tool, you acknowledge and accept that:
-
-You are solely responsible for any changes made to your system as a result of using this tool.
-
-The developer is not liable for any direct, indirect, incidental, or consequential damages, including but not limited to system instability, performance degradation, data loss, or hardware issues.
-
-This tool may modify critical system settings and is intended for advanced users who understand the potential risks involved.
-
-It is highly recommended to create a full system backup or restore point before applying any tweaks.
-
-You should thoroughly test changes in a controlled environment before deploying them on production or essential systems.
-
-For support, questions, or to report issues, please open an issue on the GitHub repository or contact the developer directly.
-
- Thank you for using Tutorial Tweaks — use responsibly and tweak smart!❤️
-
+Thank you for using Tweaks! We hope it helps you achieve the performance you desire on your device.
